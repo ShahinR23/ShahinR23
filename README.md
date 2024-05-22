@@ -1,14 +1,13 @@
 # Hello, I'm Shahin
 <a href="https://www.linkedin.com/in/shahin-rajabi-78834a172/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I recently earned a master's degree in Cyber Security. I possess a profound interest in cybersecurity and am dedicated to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Aspiring to join a dynamic organization as a Cyber Security Analyst, where I can apply my skills in security monitoring, threat analysis, and user support to safeguard critical information assets and enhance the overall security posture.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
