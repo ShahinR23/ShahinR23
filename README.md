@@ -2,10 +2,9 @@
 <a href="https://www.linkedin.com/in/shahin-rajabi-78834a172/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I recently earned a master's degree in Cyber Security. I possess a profound interest in cybersecurity and am dedicated to solving complex problems.
+I am a recent master's degree graduate with a profound interest in cybersecurity, and I am dedicated to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Aspiring to join a dynamic organization as a Cyber Security Analyst, where I can apply my skills in security monitoring, threat analysis, and user support to safeguard critical information assets and enhance the overall security posture.
 
@@ -17,9 +16,6 @@ Aspiring to join a dynamic organization as a Cyber Security Analyst, where I can
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -45,13 +41,9 @@ Aspiring to join a dynamic organization as a Cyber Security Analyst, where I can
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CC-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
 ## Projects
