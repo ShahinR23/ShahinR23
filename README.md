@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/shahin-rajabi-78834a172/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent master's degree graduate with a profound interest in cybersecurity, and I am dedicated to solving complex problems.
+I am a recent master's degree graduate with a profound interest in cybersecurity and dedicated to solving complex problems.
 
 ## Objective
 
@@ -16,6 +16,6 @@ Aspiring to join a dynamic organization as a Cyber Security Analyst, where I can
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CC-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
+<a href="https://www.credly.com/badges/6a5c23a6-0f13-44fd-bad7-d038defa91ac"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/3fa18e3e-debc-418b-9409-d6304feec572"><img src="https://img.shields.io/badge/-CC-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
