@@ -11,7 +11,7 @@ Aspiring to join a dynamic organization as a Cyber Security Analyst, where I can
 ## 👨‍💻Cybersecurity Projects:
 
 - [Building a Home Network Project (Cisco Packet Tracer)](https://github.com/ShahinR23/BuildingHomeNetworkProject)
-- [Website Passive Vulnerability Test Research Project (OWASP ZAP)](https://github.com/ShahinR23/PassiveVulnerabilityResearch)
+- [Website Passive Vulnerability Scan Project (OWASP ZAP)](https://github.com/ShahinR23/PassiveVulnerabilityResearch)
 
 
 ## Certifications
