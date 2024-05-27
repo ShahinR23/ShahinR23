@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/shahin-rajabi-78834a172/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent master's degree graduate with a profound interest in cybersecurity and dedicated to solving complex problems.
+I am a recent master's degree graduate with a profound interest in cybersecurity and a dedication to solving complex problems.
 
 ## Objective
 
@@ -10,8 +10,8 @@ Aspiring to join a dynamic organization as a Cyber Security Analyst, where I can
 
 ## 👨‍💻Cybersecurity Projects:
 
-- [Build Home Network Project (Cisco Packet Tracer)]
-- [Passive Website Vulnerability Test Research Project (OWASP ZAP)] 
+- [Build Home Network Project (Cisco Packet Tracer)](https://github.com/ShahinR23/BuildingHomeNetworkProject)
+- [Passive Website Vulnerability Test Research Project (OWASP ZAP)](https://github.com/ShahinR23/PassiveVulnerabilityResearch)
 
 
 ## Certifications
