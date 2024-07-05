@@ -11,6 +11,7 @@ Aspiring to join a dynamic organization as a Cyber Security Analyst, where I can
 ## 👨‍💻Cybersecurity Projects:
 
 - [Building a Home Network Project (Cisco Packet Tracer)](https://github.com/ShahinR23/BuildingHomeNetworkProject)
+- [Testing for RFI (Remote File Inclusion)](https://github.com/ShahinR23/Testing-for-RFI-Remote-File-Inclusion-/blob/main/README.md)
 - [Azure Sentinel (SIEM) with a live VM Honey Pot](https://github.com/ShahinR23/SIEMinAzure/blob/main/README.md)
 - [Website Passive Vulnerability Scan Project (OWASP ZAP)](https://github.com/ShahinR23/PassiveVulnerabilityResearch)
 
